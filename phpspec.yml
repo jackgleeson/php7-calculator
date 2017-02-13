@@ -1,0 +1,8 @@
+suites:
+   app_suite:
+       namespace:  App
+       psr4_prefix:  App
+       src_path:  src
+
+extensions:
+  Cjm\PhpSpec\Extension\TypeHintedMethodsExtension: ~
