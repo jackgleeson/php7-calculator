@@ -23,7 +23,7 @@ PHP 7.1 Calculator API
 Content-Type: application/json
 {
     "operand_one": 55,
-    "operand_two: 40
+    "operand_two": 40
 }
 ```
 
@@ -39,7 +39,7 @@ Content-Type: application/json
 Content-Type: application/json
 {
     "operand_one": 55,
-    "operand_two: false
+    "operand_two": false
 }
 ```
 
