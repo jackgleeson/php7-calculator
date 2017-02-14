@@ -12,7 +12,7 @@ PHP 7.1 Calculator API
 
 ## Tests
 1. run tests with: ```php bin/phpspec run --format=pretty```
-2. run tests with coverage and html output: ```phpdbg -qrr bin/phpspec run --format=pretty -c phpspec_with_coverage.yml``` html will be dumped to ```public/coverage``` you can open ```localhost:8000/coverage``` to view.
+2. run tests with coverage and html output: ```phpdbg -qrr bin/phpspec run --format=pretty -c phpspec_with_coverage.yml``` html will be dumped to ```public/coverage``` you can open ```localhost:8000/coverage/``` to view.
 
 ## Configuring Unicode Operators
 1. edit at ```/app/src/config.php```
