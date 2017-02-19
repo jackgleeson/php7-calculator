@@ -3,7 +3,9 @@ PHP 7.1 Calculator API
 
 ## Install
 1. clone the repository
-2. run ```php composer.phar install```
+2. cd /in/to/project/
+3. install composer (https://getcomposer.org/download/)
+4. run ```php composer.phar install```
 
 ## Running application
 1. cd ```/to/project/```
